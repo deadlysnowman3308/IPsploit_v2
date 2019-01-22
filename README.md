@@ -3,7 +3,7 @@
 ### This is small tool for penetration testers.
 
 
-* 10 Tool in one place
+* 20 Tool in one place
 
 ## Only for Windows use.
 
