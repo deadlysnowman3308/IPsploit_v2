@@ -4,7 +4,7 @@
 
 ### This is small tool for penetration testers.
 ```
-Please Disable Firewall when first download and run the tool
+Please Disable Firewall when first time download and run the tool
 ```
 
 * 20 Tool in one place
